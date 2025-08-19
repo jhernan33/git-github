@@ -1,4 +1,6 @@
-# Contenido de este repositorio
+# Repositorio de Git
+
+Manejo de comandos en git: git pull, push, fetch, pull request.
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
