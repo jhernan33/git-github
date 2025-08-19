@@ -2,6 +2,8 @@
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
+Actualización del curso de Git de Platzi.
+
 Los proyectos son los siguientes:
 
 ## Contribuciones
